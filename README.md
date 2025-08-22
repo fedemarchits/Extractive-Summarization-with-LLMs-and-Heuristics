@@ -1,4 +1,14 @@
 # Extractive Summarization with LLMs and Heuristics
+
+<p align="center">
+  <a href="#introduction">Introduction</a> - 
+  <a href="#dataset">Dataset</a> - 
+  <a href="#track-a">Track A</a> - 
+  <a href="#track-b">Track B</a> - 
+  <a href="#track-c">Track C</a>
+</p>
+
+---
 ### Introduction
 While abstractive summarization has dominated recent research—driven by the rapid advancement of large language models (LLMs) and generative **AI—extractive summarization remains a vital component** in real-world applications. Unlike its abstractive counterpart, extractive summarization offers several critical advantages:
 -  **Factual reliability**: Since extracted sentences come directly from the source, the risk of hallucinations is eliminated;
