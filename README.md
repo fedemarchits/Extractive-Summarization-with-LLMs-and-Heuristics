@@ -112,4 +112,5 @@ The *similarity* has been computed using **ROUGE** metrics. In order to have a w
 
 
 ### Track C
-###TODO
+In this track we took the best heuristic according to (B) results on ACLSum and uses it to actually generate extractive versions of popular abstractive datasets (e.g., CNN/DM, XSUM).
+Once done, we took the code from (A) and use it to assess LLM extractive summarization capabilities on these novel silver datasets, extending (A) benchmark, originally limited to one dataset only.
