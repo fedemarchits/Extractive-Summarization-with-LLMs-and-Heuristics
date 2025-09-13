@@ -1,0 +1,11 @@
+{
+  "name": "local_score",
+  "eval_criteria": "rouge1",
+  "grid_k_min": 1,
+  "grid_k_max": 32,
+  "beam_size": 4,
+  "best_k_single": 7,
+  "best_k_all_together": 22,
+  "source": "TrackB@ACLSum",
+  "timestamp": "2025-08-31 20:17:03"
+}
